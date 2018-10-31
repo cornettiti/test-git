@@ -1,1 +1,2 @@
 modifica 2018 10 31 1233 -- aggiunto doc-01.txt
+modifica 2018 10 31 1320 -- modificato doc-01.txt
